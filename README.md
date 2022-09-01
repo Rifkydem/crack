@@ -27,7 +27,7 @@ $ git clone https://github.com/Rifkydem/crack.git
 $ cd crack
 
 
- $ python Brute1.py
+ $ python Brute.py
  
  
  SELAMAT MENCOBA GUYSS:)
