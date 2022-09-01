@@ -21,13 +21,13 @@ $ pip install rich bs4
 $ pip install stdiomask 
 
 
-$ git clone https://github.com/Rifkydem/brutefb.git
+$ git clone https://github.com/Rifkydem/Losss.git
 
 
-$ cd brutefb
+$ cd Losss
 
 
- $ python Brute.py
+ $ python Brute1.py
  
  
  SELAMAT MENCOBA GUYSS:)
