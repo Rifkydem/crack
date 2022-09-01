@@ -21,10 +21,10 @@ $ pip install rich bs4
 $ pip install stdiomask 
 
 
-$ git clone https://github.com/Rifkydem/Losss.git
+$ git clone https://github.com/Rifkydem/crack.git
 
 
-$ cd Losss
+$ cd crack
 
 
  $ python Brute1.py
